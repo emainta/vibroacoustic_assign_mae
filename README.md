@@ -65,5 +65,28 @@ Comment the results obtained.
 - Employing a modal approach, reconstruct the FRFs and compare with the original ones.
 
 ### Case study (4)
+Vibration and waves in one-dimensional continuous system (axial vibration of bars).
 
+- Natural frequencies of the free-fixed bar in the frequency range (0 - 10) kHz and plot of the
+corresponding mode shapes.
+- Natural frequencies of the same bar in free-free conditions and plot of the
+corresponding mode shapes.
+- For the free-fixed bar excited at the free-end, plot and comment of the FRF for two different output
+positions in the following cases:
+ - undamped bar (standing wave solution);
+ - damped bar (wave propagation solution) w/ a loss factor 
+ - damped bar (modal superposition approach) w/ a loss factor
+
+- For the free-fixed bar excited at the free-end, plot and comment of the driving-point
+impedance in the following cases:
+ - damped bar (wave propagation solution) w/ a loss factor
+ - damped bar (modal superposition approach) w/ a loss factor
 ### Case study (5)
+Starting from  experimental data:
+- implemented a Matlab script for identifying the vibration modes;
+- tested the software capabilities on the experimental FRFs;
+- summarized the results in terms of:
+ - natural frequencies and damping ratios;
+ - comparison of experimental and identified FRFs (for a certain reference
+channel);
+ - visualization of the identified modes.
